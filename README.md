@@ -39,13 +39,4 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40" />
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask Logo" width="40" height="40" />
-</a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Logo" width="40" height="40" />
-</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svolodarskyi" alt="GitHub Stats" />
-</p>
